@@ -9,12 +9,20 @@
 
 <body>
     <div class="cabecera">
+        <div class="contenidocabecera">
+            
+        </div>
+    </div>
+    <div class="fondo">
+        <div class="contenido">
+            
+        </div>
         
     </div>
-    <div class="cuerpo">
+    <div class="pie">
+        <div class="contenidopie"
         
     </div>
-         
     
     
 </body
